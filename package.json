@@ -2,9 +2,9 @@
   "name": "ethio-tel-no-formatter",
   "version": "1.0.6",
   "description": "Ethiopian Telephone Number Formatter",
-  "main": "ethio_tel_no_formatter.js",
+  "main": "index.js",
   "files": [
-    "ethio_tel_no_formatter.js",
+    "index.js",
     "LICENSE"
   ],
   "scripts": {

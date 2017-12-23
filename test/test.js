@@ -1,5 +1,5 @@
 var assert = require('assert');
-var ethio_no_formatter = require('../ethio_tel_no_formatter');
+var ethio_no_formatter = require('../index');
 
 describe('Ethiopian Telephone No Formatter', function () {
   "use strict";
