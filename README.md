@@ -22,8 +22,8 @@ or
 Author
 ======
 
-Created by [Bisrat Yalew](https://linkedin.com/in/bisratyalew) 
-Email: - [@bisratyalew](mailto:bisratyalew10@gmail.com)
+Created by [Bisrat Yalew](https://linkedin.com/in/bisratyalew) </br>
+Email: - [@bisratyalew](mailto:bisratyalew10@gmail.com) </br>
 Telegram: - [@bisratyalew](https://t.me/bisratyalew) on Telegram
 
 Follow me on github to check out my programs
