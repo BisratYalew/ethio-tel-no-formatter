@@ -17,7 +17,7 @@ or
 <h5> ethioTelNoFormatter("929956337"); </h5>
 <p> output >>> "+251 (929) 95 63 37" </p>
 
-<h5> To run a test simply download this github package and run npm run test </h5>
+<h5> To run a test simply download this github package and type on cmd   >>> npm run test </h5>
 
 Author
 ======
