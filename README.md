@@ -20,6 +20,6 @@ or
 <h5> To run a test simply download this github package and run npm run test </h5>
 
 <p> This is simple! Have Fun! Thanks in advance </p>
-<p> contact me on telegram [bisratyalew] https://t.me/bisratyalew </p>
+<p> contact me on telegram [bisratyalew] (https://t.me/bisratyalew) </p>
 
 
