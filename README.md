@@ -23,7 +23,7 @@ Author
 ======
 
 Created by [Bisrat Yalew](https://linkedin.com/in/bisratyalew) 
-Email me: - [@bisratyalew](mailto:bisratyalew10@gmail.com)
+Email: - [@bisratyalew](mailto:bisratyalew10@gmail.com)
 
 Follow me on github to check out my programs
 
