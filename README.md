@@ -27,7 +27,5 @@ Email: - [bisratyalew10@gmail.com](mailto:bisratyalew10@gmail.com) </br>
 
 Thanks in advance.
 
-Have Fun!!!
 
 Bisrat Yalew, 2017  
-
