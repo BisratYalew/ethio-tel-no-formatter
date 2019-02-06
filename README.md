@@ -1,31 +1,57 @@
-### Ethiopian Telephone Number Formatter V 1.0
-
-<h4> First install the package from npmjs </h4>
-<h5> Open command prompt and type </h5>
-<h5> npm install ethio-tel-no-formatter </h5>
-<p> After you have installed it </p>
-
-## USAGE
-
-<h5> var ethioTelNoFormatter = require("ethio-tel-no-formatter"); </h5>
-
-<h5> ethioTelNoFormatter("0929956337"); </h5>
-<p> output >>> "+251 (929) 95 63 37" </p>
-
-or
-
-<h5> ethioTelNoFormatter("929956337"); </h5>
-<p> output >>> "+251 (929) 95 63 37" </p>
-
-<h5> To run a test simply download this github package and type on cmd   >>> npm run test </h5>
-
-Author
-======
-
-Created by [Bisrat Yalew](https://linkedin.com/in/bisratyalew) </br>
-Email: - [bisratyalew10@gmail.com](mailto:bisratyalew10@gmail.com) </br>
-
-Thanks in advance.
+# Ethiopian Telephone Number Formatter
 
 
-Bisrat Yalew, 2017  
+### Installing
+
+A step by step series of examples that tell you how to run the program
+
+
+***First Install the package from npmjs***
+```
+npm install ethio-tel-no-formatter
+```
+
+**If yarn is installed (optional)**
+```
+yarn add ethio-tel-no-formatter
+```
+
+## Usage
+```
+const ethioTelNoFormatter = require('ethio-tel-no-formatter');
+
+ethioTelNoFormatter("0929956337");
+// Outputs >>>   "+251 (929) 95 63 37"
+
+```
+#### or
+
+```
+ethioTelNoFormatter("929956337");
+// Outputs >>>   "+251 (929) 95 63 37"
+```
+
+
+
+## Running the tests
+
+``` 
+npm run test 
+```
+
+
+## Contributing
+
+Feel free to contribute and send pull requests.
+
+## Contributors
+
+* **Bisrat Yalew** - [BisratYalew](https://bisratyalew.github.io)
+* **Samson Endale** [SamAsEnd](https://github.com/SamAsEnd)
+* [Click Here for more](https://github.com/BisratYalew/ethio-tel-no-formatter/graphs/contributors)
+
+
+
+## License
+
+This project is licensed under the MIT License
