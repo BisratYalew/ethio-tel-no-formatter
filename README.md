@@ -47,7 +47,7 @@ Feel free to contribute and send pull requests.
 ## Contributors
 
 * **Bisrat Yalew** - [BisratYalew](https://bisratyalew.github.io)
-* **Samson Endale** [SamAsEnd](https://github.com/SamAsEnd)
+* **Samson Endale** - [SamAsEnd](https://github.com/SamAsEnd)
 * [Click Here for more](https://github.com/BisratYalew/ethio-tel-no-formatter/graphs/contributors)
 
 
